@@ -1,1 +1,1 @@
-https://github.com/GanaCShekhar/HTML/blob/main/HTML.html
+https://roadmap.sh/projects/single-page-cv
